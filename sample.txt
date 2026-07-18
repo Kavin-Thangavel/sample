@@ -1,2 +1,1 @@
-This is a sample file from Empty Branch.
-this is the sample i need.
+This is a sample file from the pull request.
